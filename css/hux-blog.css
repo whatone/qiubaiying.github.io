@@ -26,14 +26,14 @@
 }
 .sidebar-container a:hover,
 .sidebar-container a:active {
-  color: #0085a1 !important;
+  color: #4285F4 !important;
 }
 .sidebar-container .tags a {
   border-color: #bfbfbf;
 }
 .sidebar-container .tags a:hover,
 .sidebar-container .tags a:active {
-  border-color: #0085a1;
+  border-color: #4285F4;
 }
 .sidebar-container .short-about img {
   width: 80%;
@@ -166,7 +166,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #4285F4;
 }
 a img:hover,
 a img:focus {
